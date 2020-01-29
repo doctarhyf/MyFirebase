@@ -11,10 +11,12 @@
         android:layout_height="wrap_content"
         android:layout_margin="15dp"
         android:hint="Email"
+        android:text="drrhyf@gmail.com"
         android:inputType="textEmailAddress" />
 
     <EditText
         android:id="@+id/loginpaswd"
+        android:text="Aliceliwena1966"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="15dp"
